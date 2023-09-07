@@ -16,8 +16,6 @@
 
 # Ссылки
 
-Чтобы вставить ссылку нужно:
-
 Это \[Rambler](https://www.rambler.ru/ "Рамблер") с тайтлом.
 
 \[Example](https://example.net) без заголовка.
