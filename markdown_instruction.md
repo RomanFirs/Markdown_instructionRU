@@ -16,8 +16,15 @@
 
 # Ссылки
 
+Это \[Rambler](https://www.rambler.ru/ "Рамблер") с тайтлом.
+
+\[Example](https://example.net) без заголовка.
+
+\https://texterra.ru - а это безанкорная ссылка.
+
 Это \[ссылка]("Агентство TexTerra") с тайтлом.
 
 \[Эта ссылка](http://example.net/) без заголовка.
 
-\<https://texterra.ru/&gt; – а это безанкорная ссылка.
+\<https://texterra.ru/&gt;; – а это безанкорная ссылка.
+
