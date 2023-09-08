@@ -73,3 +73,16 @@
 * <img src = "https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp" width = "55px">
 
 * <img src = "https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp" width = "90px">
+
+
+# Экранирование
+
+Мы разобрали с десяток различных символов, которые используются в разметке Markdown. Но что если эти символы нужны нам в самом тексте? Чтобы спецсимволы не исчезали и не влияли на оформление, нужно использовать экранирование. Как и во многих других языках программирования, этим целям служит обратная косая черта (бэкслеш).
+
+<img src = "https://texterra.ru/upload/medialibrary/3d4/b7h4iy3m8mzc7b5ipg7vbyy7eliu9ave/15.webp">
+<br>
+Исключение – когда надо вставить внутри кода грависы (обратные тики). Интерпретатор не посчитает их за обозначение инлайн-кода, если только весь участок кода заключен с двух сторон в двойные грависы. Ничего не понятно? На примере все наглядно:
+<br>
+<img src = "https://texterra.ru/upload/medialibrary/886/fps1tlq1beyvj79br0uuvdrgi7npjras/16.webp">
+<br>
+В отличие от HTML, в Markdown не нужно специально экранировать амперсанд (&) или угловую скобку (<).
