@@ -73,3 +73,42 @@
 * <img src = "https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp" width = "55px">
 
 * <img src = "https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp" width = "90px">
+
+# Таблицы
+
+Если поддерживается расширенная версия Markdown, можно вставлять таблицы. Для этого используются всего два символа: вертикальная черта и дефис. Дефисы работают примерно так же, как в случае с горизонтальной линией: отделяют заголовки от других строк, при этом количество символов значения не имеет. Вертикальная черта служит границей между столбцами.
+
+* Пример – таблица меток для блоков кода, об этом было в предыдущем разделе:
+
+|Язык|Метка|
+
+|----|----|
+
+|Java Script|javascript|
+
+|C++|cpp|
+
+|HTML|html|
+
+|Markdown|md|
+
+|JSON|json|
+
+|Python|python|
+
+SQL|sql|
+
+* Визуально выглядит это так:
+
+|Язык|Метка|
+|----|----|
+|Java Script|javascript|
+|C++|cpp|
+|HTML|html|
+|Markdown|md|
+|JSON|json|
+|Python|python|
+|SQL|sql|
+
+
+ 
