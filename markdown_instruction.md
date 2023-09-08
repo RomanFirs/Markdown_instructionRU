@@ -69,3 +69,9 @@
 * [текст](https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp)
 <br>
 * ![картинка](https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp)
+
+## Полезное 
+
+![картинка](https://s2.studylib.es/store/data/008825178_1-f39e56009941736933e722fe371a5cd3.png)
+<br>
+![картинка](https://res.cloudinary.com/practicaldev/image/fetch/s--2PiSwXn3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/EezubrwUYAAo8UP.png)
