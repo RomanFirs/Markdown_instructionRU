@@ -55,3 +55,21 @@
 * \~~Зачеркнутый~~
 
 Можно легко комбинировать эти способы выделения.
+
+## Изображения
+
+Размер изображений можно изменять, для этого нужно использовать следующую команду: 
+
+* \<img src = "url изображения" width = "15px"> , где "px" изменяемая величина, влияющая на размер изображения.
+
+Пример:
+
+* <img src = "https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp" width = "15px">
+
+* <img src = "https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp" width = "30px">
+
+* <img src = "https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp" width = "40px">
+
+* <img src = "https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp" width = "55px">
+
+* <img src = "https://texterra.ru/upload/medialibrary/312/bd0mepuypjdjyr9eytlavyklc0bku0eg/10.webp" width = "90px">
